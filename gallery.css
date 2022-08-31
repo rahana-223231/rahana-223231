@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&display=swap');
+div{
+    width: 22%;
+    color: rgb(167, 145, 116);
+    height: 480px;
+    background-color: #315a8c;
+    float: left;
+    text-align: center;
+    padding: 12px;
+    border: white 2px solid
+}
+h1{
+    color: rgb(8, 31, 51);
+}
+/* decended selector  */
+div img{
+    width: 80%;
+    height: -29px;
+    border-radius: 15px;
+}
+img{
+    width: 80%;
+    height: -29px;
+    border-radius: 15px;
+}
+p{
+    font-size:small;
+    font-family: 'Anek Telugu', sans-serif;
+}
